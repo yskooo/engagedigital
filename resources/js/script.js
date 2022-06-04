@@ -17,3 +17,5 @@ if (sticky.style.position !== 'sticky') {
             sticky.classList.remove('fixed');
     });
 }
+
+// owshi
