@@ -18,4 +18,4 @@ if (sticky.style.position !== 'sticky') {
     });
 }
 
-// owshi
+
