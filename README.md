@@ -1,4 +1,4 @@
-<h1>A responsive landing page for a our freelance team start-up, which provides software solutions and website development for clients, businesses, and companies. 
+<h1>A responsive landing page for our freelance team start-up, which provides software solutions and website development for clients, businesses, and companies. 
 
 
 
