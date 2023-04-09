@@ -16,7 +16,7 @@ html {
 body {
     color: hsl(192, 100%, 9%);
     font-family: 'Open Sans', sans-serif;
-    font-size: 1em;
+    font-size: 1.10em;
     min-height: 100vh;
 }
 
@@ -28,9 +28,9 @@ h3 {
 }
 
 p {
-    font-size: 1.15em;
+    font-size: 1em;
     line-height: 1.8rem;
-    font-weight: normal;
+    font-weight: 100;
     font-style: normal;
     font-family: 'Poppins', sans-serif;
     color: #6a7c92;
