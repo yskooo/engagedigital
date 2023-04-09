@@ -16,7 +16,7 @@ html {
 body {
     color: hsl(192, 100%, 9%);
     font-family: 'Open Sans', sans-serif;
-    font-size: 1.10em;
+    font-size: 1em;
     min-height: 100vh;
 }
 
